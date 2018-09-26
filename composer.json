@@ -1,0 +1,13 @@
+{
+    "name": "lucas/new-system",
+    "description": "Teste",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+            "psr-4":{
+                "App\\": "classes/"
+                        }
+                },
+    "minimum-stability": "stable",
+    "require": {}
+}
